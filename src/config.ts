@@ -167,11 +167,11 @@ export const config = {
         }
     ],
     contact: {
-        email: "redoyanul1234@gmail.com",
+        email: "afzanoor344@gmail.com",
         github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
+        linkedin: "https://www.linkedin.com/in/afza-noor-1013b6368/",
+        twitter: "https://x.com/Noorkhan12890",
+        facebook: "https://www.facebook.com/hacker.official",
         instagram: "https://www.instagram.com/red_1_ul"
     },
     skills: {
