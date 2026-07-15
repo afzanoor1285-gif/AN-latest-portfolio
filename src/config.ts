@@ -12,7 +12,7 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "I am Afza noor a self-taught AI & Full-Stack Developer, UI.UX designer from Pakistan. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "I am Afza noor a self-taught AI & Full-Stack Developer, UI.UX designer from Pakistan. I build intelligent systems, chatbots, and modern web applications. My expertise includes Ma[...]"
     },
     experiences: [
         {
@@ -107,7 +107,7 @@ export const config = {
             category: "AI / LLM",
             technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
             image: "/images/drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
+            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingu[...]"
         },
         {
             id: 2,
@@ -115,7 +115,7 @@ export const config = {
             category: "Blockchain",
             technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
             image: "/images/votechain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking."
+            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real[...]"
         },
         {
             id: 3,
@@ -123,7 +123,7 @@ export const config = {
             category: "IoT / Hardware",
             technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
             image: "/images/eie.png",
-            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
+            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estim[...]"
         },
         {
             id: 4,
@@ -139,7 +139,7 @@ export const config = {
             category: "AI / Game Engine",
             technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
             image: "/images/redxchess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation."
+            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move [...]"
         },
         {
             id: 6,
@@ -147,7 +147,7 @@ export const config = {
             category: "AI / ML",
             technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
             image: "/images/floodhub.png",
-            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
+            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecast[...]"
         },
         {
             id: 7,
@@ -155,7 +155,7 @@ export const config = {
             category: "AI Assistant",
             technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
             image: "/images/phoenix.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
+            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experi[...]"
         },
         {
             id: 8,
@@ -163,7 +163,7 @@ export const config = {
             category: "Security / Android",
             technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
             image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes."
+            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes.[...]"
         }
     ],
     contact: {
@@ -171,7 +171,7 @@ export const config = {
         github: "https://github.com/red1-for-hek",
         linkedin: "https://www.linkedin.com/in/afza-noor-1013b6368/",
         twitter: "https://x.com/Noorkhan12890",
-        facebook: "https://www.facebook.com/hacker.official",
+        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
         instagram: "https://www.instagram.com/red_1_ul"
     },
     skills: {
