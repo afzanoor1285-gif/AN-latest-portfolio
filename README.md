@@ -35,7 +35,7 @@ If you’re a developer looking for a **portfolio template** that feels premium,
 ### 1) Clone
 
 ```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
+git clone https://github.com/afzii/portfolio-website.git
 cd portfolio-website
 ```
 
@@ -82,7 +82,8 @@ If you found this useful:
 
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
+- GitHub: https://github.com/afzii
+- LinkedIn: https://www.linkedin.com/in/afza-noor-1013b6368/
 
 ---
 
